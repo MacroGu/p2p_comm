@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+
+#other
+/client/Debug/*
+/client/x64
+*.db
+*.vs
